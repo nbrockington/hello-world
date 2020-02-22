@@ -1,1 +1,1 @@
-hello = zip "hlowrd" "el ol!"
+zip "hlowrd" "el ol!"
